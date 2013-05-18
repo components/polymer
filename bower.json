@@ -8,10 +8,6 @@
     "browser"
   ],
   "author": "Polymer Authors <polymer-dev@googlegroups.com>",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/Polymer/platform.git"
-  },
   "version": "0.0.1",
   "main": [
     "polymer.js"
