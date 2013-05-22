@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git://github.com/Polymer/platform.git"
   },
-  "main": "polymer.js",
+  "main": "polymer.min.js",
   "version": "0.0.1",
   "devDependencies": {
     "mocha": "*",

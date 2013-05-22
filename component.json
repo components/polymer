@@ -12,6 +12,6 @@
   "version": "0.0.1",
   "main": "polymer.js",
   "scripts": [
-    "polymer.js"
+    "polymer.min.js"
   ]
 }

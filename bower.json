@@ -10,6 +10,6 @@
   "author": "Polymer Authors <polymer-dev@googlegroups.com>",
   "version": "0.0.1",
   "main": [
-    "polymer.js"
+    "polymer.min.js"
   ]
 }
