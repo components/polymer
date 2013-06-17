@@ -9,7 +9,7 @@
 var thisFile = 'polymer.js';
 var scopeName = 'Polymer';
 var modules = [
-  'platform/platform.js',
+  'src/platform.min.js',
   'src/lang.js',
   'src/oop.js',
   'src/register.js',
@@ -17,7 +17,6 @@ var modules = [
   'src/trackObservers.js',
   'src/bindProperties.js',
   'src/bindMDV.js',
-  'src/polymerSyntaxMDV.js',
   'src/attrs.js',
   'src/marshal.js',
   'src/events.js',
@@ -42,10 +41,10 @@ var script = document.querySelector('script[src*="' + thisFile + '"]');
 var src = script.attributes.src.value;
 var basePath = src.slice(0, src.indexOf(thisFile));
 
-if (!window.Loader) {
-  var path = basePath + 'tools/loader/loader.js';
-  document.write('<script src="' + path + '"></script>');
-} 
-document.write('<script>Loader.load("' + scopeName + '")</script>');
-  
+console.log(src);
+
+modules.forEach(function(m) {
+  document.write('<script src="' + basePath + m + '"></script>');
+});
+
 })();
