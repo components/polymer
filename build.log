@@ -1,6 +1,6 @@
 BUILD LOG
 ---------
-Build Time: 2013-08-01T14:19:08
+Build Time: 2013-08-08T15:30:07
 
 NODEJS INFORMATION
 ==================
@@ -26,17 +26,17 @@ mocha: 1.12.0
 
 REPO REVISIONS
 ==============
-polymer: 9c8068f25dbe1cc218079dec1480a716b2f5e816
-platform: 92b34ea333ec8cae2c7fcd395602d949117dc4e1
-ShadowDOM: fd48678e24442ae1b64d9ea7af3977e86c33b0bb
-HTMLImports: 26739666016e855f9f5a569203015b081f9f7755
-CustomElements: a800e8ea471d99e38f5f99818566a0cb3cd17daf
-PointerEvents: ffafaa3fce93c927f604999f58d61f4e2209e20c
-PointerGestures: 84b7b698953dec5d6cfd12f78f220c18fd255eaf
-mdv: c126ab89c5b39b8a088d0afac126310d5e8b3e20
+polymer: 12fb68a092a2a2167509108510f9bd14baba034d
+platform: 90d76ed26b3824c14f7fafa9730a58991019ced9
+ShadowDOM: 31eee3f74262f9efad3c033450506d47d44b6e1d
+HTMLImports: 424e41d959c2428abf4750e659f0833b4097bea8
+CustomElements: 3e50d8581b44115f8a7267b625c33c7459ccb1d4
+PointerEvents: e48989126014c5231df3ed6c3ae2981117cb3eb5
+PointerGestures: 8552d331296ec3fff6f83cd24df0a409c272ef5f
+mdv: d70eb8dd48be019307653ff1f9163cbcfce14f67
 
 BUILD HASHES
 ============
-polymer.min.js: 61432cfb0ca707a10a6708285801dcb321a8f6b9
-polymer.native.min.js: fa292dace6678f6b6f634de512c3e788318300d7
-polymer.sandbox.min.js: 4b62561d01ecb23c9a2325b7b882227fa3f9ff6d
+polymer.min.js: 922f67b7b025bd1a5c90670b744d813afa414535
+polymer.native.min.js: ab9e1b554fcda9c096857decf4d6737d1a1e8532
+polymer.sandbox.min.js: aafea6d75aa919b44a65e3fa2ab23f5a2bc2d19b
