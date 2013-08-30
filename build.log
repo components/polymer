@@ -1,6 +1,6 @@
 BUILD LOG
 ---------
-Build Time: 2013-08-16T15:13:31
+Build Time: 2013-08-29T17:00:16
 
 NODEJS INFORMATION
 ==================
@@ -8,38 +8,38 @@ nodejs: v0.10.4
 chai: 1.7.2
 grunt: 0.4.1
 grunt-audit: 0.0.1
+grunt-concat-sourcemap: 0.3.0
 grunt-contrib-uglify: 0.2.2
 grunt-contrib-yuidoc: 0.4.0
-grunt-karma: 0.5.0
-karma: 0.9.7
-karma-chrome-launcher: 0.0.2
-karma-coffee-preprocessor: 0.0.3
-karma-crbot-reporter: 0.0.3
-karma-firefox-launcher: 0.0.3
-karma-html2js-preprocessor: 0.0.2
-karma-jasmine: 0.0.3
-karma-mocha: 0.0.4
-karma-phantomjs-launcher: 0.0.2
-karma-requirejs: 0.0.3
-karma-script-launcher: 0.0.2
+grunt-karma: 0.6.2
+karma: 0.10.2
+karma-chrome-launcher: 0.1.0
+karma-coffee-preprocessor: 0.1.0
+karma-crbot-reporter: 0.0.4
+karma-firefox-launcher: 0.1.0
+karma-html2js-preprocessor: 0.1.0
+karma-ie-launcher: 0.1.1
+karma-jasmine: 0.1.3
+karma-mocha: 0.1.0
+karma-phantomjs-launcher: 0.1.0
+karma-requirejs: 0.1.0
+karma-script-launcher: 0.1.0
 mocha: 1.12.0
 
 REPO REVISIONS
 ==============
-polymer: a32f21b234129a290ea4931a2c6d7345f6825789
-platform: 8645fe5180f3c122aa509f0c55c956b70ce4bd96
-ShadowDOM: 8d23e7ca5864e068aefc250eb196a6ce7c20f877
-HTMLImports: 71b260f6391bb6174c2699b538127c4cce78dbbd
-CustomElements: 3724b30298fe86a101afa7ff80501d320161d29d
-PointerEvents: 1fd01697ac021718453ea0ea8712246578dfc55f
-PointerGestures: 128f4c1c30837f99f9b7282e8cc1ceaef112c2de
-polymer-expressions: 3741c09c245e29db1d697a8bf40014c59800c76f
-observe-js: 35498d97fa6dfe06d15cb7488f1186fa4f5d46ae
-NodeBind: 1e32d4703ce57c31483834c4527c98b9b08597fb
-TemplateBinding: 548f86d763051c59472ad17ac0274efe55cf9d4f
+polymer: c8d5aa7d5622ad77919532d20924a4abc12c6d08
+platform: 03ee74a5ff47b8f319348c8411d260175288ee8c
+ShadowDOM: 4c1b65ea12a16546eb931826c3d96e40e3657490
+HTMLImports: 62373c074dd28595fe285d68bda2c44bf721272b
+CustomElements: 677b28f72a545643c3f62e001dda3e08625f5ad3
+PointerEvents: ae0fa2f7ef45f9dd081222d4e93e81e96f409a84
+PointerGestures: 264d55a67f3ed05826e2734d1c9ec2ae1bda72fa
+polymer-expressions: da3a26c4226f8fabc741ce379c0ed7d9b2ef66df
+observe-js: 2dd6f8a3ce60c1eb3bb4f5ffa3dd88cb3a8ba659
+NodeBind: 1e78b2c1dab4933fd5ba56d4dfcb58d97579a215
+TemplateBinding: 5e420fea86a5176620db39e37f517197e5e2ae46
 
 BUILD HASHES
 ============
-polymer.min.js: d6f99f7f0a89a20a3649c91e1ab2bd8b5823a3ff
-polymer.native.min.js: 364f675a7e223a0060e3adebe34245e80e267e77
-polymer.sandbox.min.js: e71bd5640057e5758be5a53d498fb7a8c107d4ad
+polymer.min.js: 4bea46e3d3df7d0273d7606bcd6b51b8e26cd1b1
